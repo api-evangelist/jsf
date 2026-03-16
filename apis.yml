@@ -1,11 +1,40 @@
+aid: jsf
 name: JSF
-description: JSF is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  JavaServer Faces (JSF) is a Java web application framework for building
+  component-based user interfaces. It simplifies the development integration
+  of web-based user interfaces through a component-driven approach with
+  managed beans and an event-driven programming model.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JSF
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - JSF
+  - Java
+  - Web Framework
+  - UI Components
+url: https://raw.githubusercontent.com/api-evangelist/jsf/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: jsf:jsf
+    name: Jakarta Faces
+    description: >-
+      The Jakarta Faces (formerly JavaServer Faces) specification for building
+      component-based web user interfaces in Java applications.
+    humanURL: https://jakarta.ee/specifications/faces/
+    tags:
+      - Web Framework
+      - Java
+      - UI
+    properties:
+      - type: Documentation
+        url: https://jakarta.ee/specifications/faces/
+common:
+  - type: Website
+    url: https://jakarta.ee/specifications/faces/
+  - type: Documentation
+    url: https://jakarta.ee/specifications/faces/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
