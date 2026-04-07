@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JSF
   - Java
-  - Web Framework
+  - JSF
   - UI Components
+  - Web Framework
 url: https://raw.githubusercontent.com/api-evangelist/jsf/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -24,9 +24,9 @@ apis:
       component-based web user interfaces in Java applications.
     humanURL: https://jakarta.ee/specifications/faces/
     tags:
-      - Web Framework
       - Java
       - UI
+      - Web Framework
     properties:
       - type: Documentation
         url: https://jakarta.ee/specifications/faces/
