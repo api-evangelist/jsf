@@ -44,7 +44,7 @@ common:
     url: https://jakarta.ee/specifications/faces/
   - type: Documentation
     url: https://jakarta.ee/specifications/faces/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jakartaee/faces
 maintainers:
   - FN: Kin Lane
