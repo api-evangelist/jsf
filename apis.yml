@@ -9,7 +9,7 @@ description: >-
   internationalization and accessibility. Jakarta Faces 4.1 is the current
   stable release with Jakarta EE 11, with 5.0 in development for Jakarta EE 12.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Java
   - JSF
