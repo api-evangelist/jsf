@@ -40,6 +40,8 @@ apis:
       - type: Specification
         url: https://jakarta.ee/specifications/faces/4.1/
 common:
+  - type: DomainSecurity
+    url: security/jsf-domain-security.yml
   - type: Website
     url: https://jakarta.ee/specifications/faces/
   - type: Documentation
